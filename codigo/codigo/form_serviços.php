@@ -19,9 +19,7 @@
         Idade: <br>
         <input type="text" name="idade"><br>
 
-         Agendamento: <br>
-          <input type="text" name="agendamento"><br>
-
+        
 
         <input type="submit" value="Criar conta">
     </form>

@@ -13,8 +13,7 @@
         CPF: <br>
         <input type="text" name="cpf"><br>
 
-        E-mail: <br>
-        <input type="text" name="email"><br>
+        
 
         Telefone: <br>
         <input type="text" name="telefone"><br>
@@ -22,9 +21,7 @@
         Email: <br>
          <input type="text" name="email"><br>
 
-         Agendamento: <br>
-          <input type="text" name="agendamento"><br>
-
+         
 
         <input type="submit" value="Criar conta">
     </form>

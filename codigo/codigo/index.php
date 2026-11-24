@@ -6,11 +6,11 @@
     <title>Agendamentos</title>
 </head>
 <body>
-    <form action="salvar_cliente" method="post">
-        Data: <br>
-        <input type="date" name="data"> <br>
-        Horario: <br>
-        <input type="date" name="horario"> <br>
+    <form action="salvar_cliente.php" method="post">
+        Nome: <br>
+        <input type="text" name="data"> <br>
+        email: <br>
+        <input type="text" name="horario"> <br>
 
         <input type="submit" value="Logar">
     </form>
